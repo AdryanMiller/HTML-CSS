@@ -1,0 +1,13 @@
+div:hover
+{
+    margin: 10px;
+    padding: 0px 5px;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    transition: 1s;
+    background-color:rgba(0, 0, 0, 0.493);
+    color:white;
+    box-shadow: 5px 3px 15px rgba(0, 0, 0, 0.637);
+    
+}

@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(172, 224, 233, 0.555);
+}
+h2 {
+    background-color: rgb(131, 131, 131);
+    color: crimson;
+}
+p {
+    text-align: justify;
+}

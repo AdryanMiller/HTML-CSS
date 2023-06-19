@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body
+{
+    background-color: rgb(37, 7, 7);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#principal
+{
+    color: rgb(247, 238, 238);
+}
+
+.basico
+{
+    color: rgb(40, 133, 40);
+}
